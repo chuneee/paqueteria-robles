@@ -1,0 +1,1 @@
+export { DetalleGuiaModal } from "./DetalleGuiaModal";
